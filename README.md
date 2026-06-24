@@ -1,4 +1,4 @@
-###Fast Food Restaurant MYSQL Database
+### Fast Food Restaurant MYSQL Database
 
 This database is created by MySQL which was inspired by the receipts of a fast food restaurant.
 
