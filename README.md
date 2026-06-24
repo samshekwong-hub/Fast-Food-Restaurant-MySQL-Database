@@ -13,3 +13,16 @@ Meaning of tables:
     - UserID: The ID to identify the user (linked to USER_INFO)
     - PurchaseTime: The date and time when user made a purchase 
   
+* PRODUCT_INFO: Information of products of the restaurant
+  - Columns:
+    - ProductID: A unique ID representing the product (Primary Key)
+    - Name: The name of the product
+    - ProductType: Whether the product is a food or drink
+    - Price: The Price of the product
+    - IsAvailable: Whether the product is available or not
+* USER_INFO: A list of customers of the restaurant
+  - Columns:
+    - UserID: A unique ID representing the customer
+    - Name: The name of the user
+    - Phone: The phone number of the user
+    - IsMember: Whether the user is a member or not
